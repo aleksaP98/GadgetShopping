@@ -1,0 +1,23 @@
+login:	username or password did not match
+login:	username or password did not match
+login:	username or password did not match
+login:	username or password did not match
+login:	username or password did not match
+mail:	Could not instantiate mail function.
+login:	username or password did not match
+mail:	Could not instantiate mail function.
+login:	username or password did not match
+mail:	Could not instantiate mail function.
+login:	username or password did not match
+login:	username or password did not match
+mail:	Could not instantiate mail function.
+login:	username or password did not match
+mail:	SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+login:	username or password did not match
+mail:	SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+login:	username or password did not match
+mail:	SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+login:	username or password did not match
+login:	username or password did not match
+login:	username or password did not match
+login:	username or password did not match
